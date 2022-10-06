@@ -2,4 +2,6 @@
     <string name="app_name">TEMA_2</string>
     <string name="eje1">HOlA</string>
     <string name="enviar">Enviar</string>
+    <string name="borrar">Borrar</string>
+
 </resources>
