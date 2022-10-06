@@ -44,8 +44,8 @@
             android:id="@+id/botonborrar1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="@string/borrar"/>
-
+            android:text="@string/borrar"
+            android:backgroundTint="@color/rojo"/>
     </LinearLayout>
 </LinearLayout>
 
